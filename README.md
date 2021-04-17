@@ -2,9 +2,10 @@
 
 **Stack:**
 
+- Programmatic
+- CPA
+- GDN
+- In-App
 - Google Ads
 - Facebook Ads
-- GDN
 - Tizers
-- CPA
-- In-App
